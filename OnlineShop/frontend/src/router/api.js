@@ -1,0 +1,1 @@
+export const online_shop_url = 'http://localhost:8080/api';
